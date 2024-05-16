@@ -159,7 +159,7 @@ wrapper-gallery {
 
         & wrapper-scrolling-photos {
             position: relative;
-            // z-index: 999;
+            // z-index.vue: 999;
 
             flex: 1 0 auto;
             margin-top: auto;
@@ -457,7 +457,7 @@ top-panel-gallery {
 
             @include start-at("lg") {
                 margin-right: 20px;
-            } 
+            }
 
             & > span[class^="icon"] {
                 width: 24px;
@@ -478,7 +478,7 @@ top-panel-gallery {
                 }
             }
         }
- 
+
         &[data-heart] {
             position: absolute;
             left: 50%;
@@ -842,7 +842,7 @@ scrolling-photos wrapper-photo {
 wrapper-scrolling-photos {
     position: relative;
     z-index: 999999999;
-    // z-index: 99999;
+    // z-index.vue: 99999;
     display: block;
     overflow: hidden;
     padding-top: 10px * $rem;

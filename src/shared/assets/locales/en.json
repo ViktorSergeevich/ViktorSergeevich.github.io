@@ -1,1 +1,21 @@
-{}
+{
+  "common.back": "Back",
+  "common.dateRange": "Date Range",
+  "common.apply": "Apply",
+  "common.reset": "Reset",
+  "common.all": "All",
+  "common.year": "Year",
+  "orders.empty": "No orders yet",
+  "orders.filters.searchTypes.order_number.placeholder": "Enter order number",
+  "orders.filters.searchTypes.order_number.title": "Order Number",
+  "orders.filters.searchTypes.psid.placeholder": "Enter photoshoot number",
+  "orders.filters.searchTypes.psid.title": "Photoshoot Number",
+  "orders.filters.searchTypes.client_id.placeholder": "Enter client ID",
+  "orders.filters.searchTypes.client_id.title": "Client ID",
+  "orders.filters.searchTypes.phone.placeholder": "Enter phone number",
+  "orders.filters.searchTypes.phone.title": "Phone",
+  "orders.filters.searchTypes.email.placeholder": "Enter email",
+  "orders.filters.searchTypes.email.title": "Email",
+  "orders.filters.searchTypes.payer.placeholder": "Enter payer or child",
+  "orders.filters.searchTypes.payer.title": "Payer, child"
+}
