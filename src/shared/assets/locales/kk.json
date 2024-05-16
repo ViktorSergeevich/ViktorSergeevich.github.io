@@ -1,1 +1,21 @@
-{}
+{
+  "common.back": "Артқа",
+  "common.dateRange": "Күні диапазоны",
+  "common.apply": "Қолдану",
+  "common.reset": "Қалпына келтіру",
+  "common.all": "Барлығы",
+  "common.year": "Жыл",
+  "orders.empty": "Әлі тапсырыстар жоқ",
+  "orders.filters.searchTypes.order_number.placeholder": "Тапсырыс нөмірін енгізіңіз",
+  "orders.filters.searchTypes.order_number.title": "Тапсырыс нөмірі",
+  "orders.filters.searchTypes.psid.placeholder": "Фотосессия нөмірін енгізіңіз",
+  "orders.filters.searchTypes.psid.title": "Фотосессия нөмірі",
+  "orders.filters.searchTypes.client_id.placeholder": "Клиент ID енгізіңіз",
+  "orders.filters.searchTypes.client_id.title": "Клиент ID",
+  "orders.filters.searchTypes.phone.placeholder": "Телефон нөмірін енгізіңіз",
+  "orders.filters.searchTypes.phone.title": "Телефон",
+  "orders.filters.searchTypes.email.placeholder": "Электрондық поштаны енгізіңіз",
+  "orders.filters.searchTypes.email.title": "Электрондық пошта",
+  "orders.filters.searchTypes.payer.placeholder": "Төлеушіні немесе баланы енгізіңіз",
+  "orders.filters.searchTypes.payer.title": "Төлеуші, бала"
+}

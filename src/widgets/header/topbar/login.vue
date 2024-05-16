@@ -1,6 +1,6 @@
 <template>
   <div class="user-data">
-    <div class="user-data__name">ФИО</div>
+    <div class="user-data__name">Харченко Виктор Сергеевич</div>
 
     <div class="user-data__photo">
       <div class="user-data__icon">
